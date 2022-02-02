@@ -1,7 +1,7 @@
 ## Currency conventer
 
 Live:
-euro-conventer.netlify.app
+# [euro-conventer.netlify.app](euro-conventer.netlify.app)
 
 In order to run project first run:
 ### `npm install`
