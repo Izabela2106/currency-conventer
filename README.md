@@ -1,16 +1,16 @@
-## Ds-excercise
+## Currency conventer
+
+Live:
+euro-conventer.netlify.app
 
 In order to run project first run:
 ### `npm install`
 
 then (to open in the development mode) run:
 
-### `npm run storybook`
+### `npm start`
 
-Open [http://localhost:6006](http://localhost:6006) to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-#� �C�u�r�r�e�n�c�y�C�o�n�v�e�n�t�e�r�
-�
-�
-euro-conventer.netlify.app
+
 
